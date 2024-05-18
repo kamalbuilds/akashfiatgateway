@@ -2,6 +2,8 @@
 
 Implementing Stripe Payments with Akash payments gateway.
 
+![Screenshot 2024-05-18 192653](https://github.com/kamalbuilds/akashfiatgateway/assets/95926324/e30f81ab-d254-4ff4-aee4-210745a2aae9)
+
 An open-source fiat payment system that seamlessly integrates with the Akash Network ecosystem. While decentralized finance (DeFi) has gained significant traction, enabling fiat payments remains a critical bridge between traditional financial systems and blockchain-based networks. 
 
 - Contributes to enhancing accessibility, usability, and adoption of the Akash Network.
