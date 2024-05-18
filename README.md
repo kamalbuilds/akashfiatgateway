@@ -8,7 +8,7 @@ An open-source fiat payment system that seamlessly integrates with the Akash Net
 
 * Features:
 
-Fiat Payment Gateway Integration: A fiat payment gateway that allows users to purchase and manage Akash Network services using traditional fiat currencies (e.g., USD, EUR, GBP). Participants should integrate popular payment methods (e.g., credit/debit cards, bank transfers, PayPal) into the payment system to facilitate seamless transactions.
+Fiat Payment Gateway Integration: A fiat payment gateway that allows users to purchase and manage Akash Network services using traditional fiat currencies (e.g., USD, EUR, GBP). We have integrated popular payment methods (e.g., credit/debit cards, bank transfers) into the payment system to facilitate seamless transactions.
 
 ## Demo
 
